@@ -51,7 +51,3 @@ miMoto.caballo()
 miMoto.estado()
 
 print("---------------")
-
-furgo = Furgoneta("Toyota","2021")
-furgo.carga(True)
-furgo.estado()

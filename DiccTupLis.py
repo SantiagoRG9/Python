@@ -24,5 +24,3 @@ li.append("siete")
 
 tupla = (1, 2, 3, 4, 5, 6) #No es posible modificarlas, pero son muy similares a las listas
 #print(tupla)
-
-
