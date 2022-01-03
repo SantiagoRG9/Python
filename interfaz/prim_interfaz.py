@@ -5,7 +5,7 @@ import os
 raiz = Tk()
 raiz.title('OneA')
 raiz.resizable(True,True)
-# raiz.iconbitmap("anarquia.ico")
+#raiz.iconbitmap("/home/santiago/Documentos/Python/interfaz/anarquia.ico")
 raiz.geometry("1250x720")
 raiz.config(bg="#997169")
 
