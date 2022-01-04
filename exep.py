@@ -1,10 +1,13 @@
 from typing import cast
+import doctest 
 
 
 print("BIENVENIDO A LA CALCULADORA")
 
 ope = input("¿Que operacion desea realizar? (+ - * /): \n")
+#
 
+# >>>
 num1= int(input("Digite numero 1: \n"))
 num2= int(input("Digite numero 2: \n"))
 
